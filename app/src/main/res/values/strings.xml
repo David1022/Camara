@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Camara</string>
+    <string name="camara">Camara</string>
+    <string name="galeria">Galeria</string>
+
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+
+</resources>
